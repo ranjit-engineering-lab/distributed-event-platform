@@ -1,0 +1,9 @@
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\exception\InsufficientStockException.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\repository\InventoryRepository.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\repository\ReservationRepository.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\InventoryServiceApplication.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\consumer\InventoryConsumer.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\domain\InventoryItem.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\domain\InventoryReservation.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\service\InventoryService.java
+C:\Users\14379\Downloads\distributed-event-platform\services\inventory\src\main\java\com\platform\inventory\config\InventoryConfig.java
