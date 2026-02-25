@@ -112,8 +112,8 @@ event-driven-platform/
 # Prerequisites: Java 21, Maven 3.9, Docker
 
 # 1. Clone and build
-git clone https://github.com/yourusername/event-driven-platform-java
-cd event-driven-platform-java
+git clone https://github.com/ranjit-engineering-lab/distributed-event-platform
+cd distributed-event-platform
 mvn clean install -DskipTests
 
 # 2. Start infrastructure
