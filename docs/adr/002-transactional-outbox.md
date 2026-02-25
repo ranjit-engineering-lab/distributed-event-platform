@@ -73,5 +73,4 @@ A background relay reads unpublished outbox records and publishes to Kafka. On s
 
 ## Implementation
 
-See `shared/outbox/relay.js` for the polling relay.
-See `appendToOutbox()` helper for usage inside transactions.
+See `com.platform.shared.outbox.OutboxRelayService` for the polling relay.
